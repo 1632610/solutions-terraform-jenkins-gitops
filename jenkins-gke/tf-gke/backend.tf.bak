@@ -16,7 +16,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "grin-323309-tfstate"
+    bucket = "euphoric-grin-323309-tfstate"
     prefix = "jenkins"
   }
 }

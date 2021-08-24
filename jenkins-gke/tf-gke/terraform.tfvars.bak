@@ -1,7 +1,7 @@
 
 
-project_id = "grin-323309"
-tfstate_gcs_backend = "grin-323309-tfstate"
+project_id = "euphoric-grin-323309"
+tfstate_gcs_backend = "euphoric-grin-323309-tfstate"
 region = "us-east4"
 zones = ["us-east4-a"]
 ip_range_pods_name = "ip-range-pods"
